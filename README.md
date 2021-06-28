@@ -1,12 +1,12 @@
 |**Output**|||
 |:---:|:---:|:---:|
 |**color_png**|**monochrome_png**|**sliding_gif**|
-|<img src="image1/output_color.png" width="1000px">|<img src="image1/output_monochrome.png" width="1000px">|<img src="image1/output_sliding.gif" width="1000px">|
+|<img src="image/output_color.png" width="1000px">|<img src="image/output_monochrome.png" width="1000px">|<img src="image/output_sliding.gif" width="1000px">|
 
 |**Input**|**Output**|||
 |:---:|:---:|:---:|:---:|
 |**tif**|**color_png**|**monochrome_png**|**sliding_gif**|
-|<img src="image1/input.tif" width="1000px">|<img src="image1/output_color.png" width="1000px">|<img src="image1/output_monochrome.png" width="1000px">|<img src="image1/output_sliding.gif" width="1000px">|
+|<img src="image/input2.tif" width="1000px">|<img src="image/output_color.png" width="1000px">|<img src="image/output_monochrome.png" width="1000px">|<img src="image/output_sliding.gif" width="1000px">|
 
 
 |**Output**|||
